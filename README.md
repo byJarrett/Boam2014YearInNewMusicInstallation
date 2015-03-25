@@ -1,7 +1,7 @@
 
 # Boam 2014 Year In New Music Installation
 
-![Boam 2014 Year In New Music Installation](https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0569.JPG)
+<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0569.JPG" width="639.5" height="502.5"/>
 
 ### The Repo
 
@@ -23,7 +23,7 @@ I was able to solve all of these problems with a single solution – [Eric Boam]
 
 Eric is a talented designer that has a strong interest in data and the field of quantified self.  Each year he tracks new music he discovers by recording detailed information which he later mines to surface “moments of significance.”  I approached him with the basic idea that I wanted to take his data and create an interactive installation.  It would be a physical interactive data visualization of his year in new music that used no screens or pixels of any form.  We had to use the Bare Conductive Touch Board and ink, but beyond that, there were no other constraints.
 
-<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0554.JPG" width="921" height="614"/>
+<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0554.JPG" width="768" height="512"/>
 
 The result was a set of three canvas panels.  Each has a set of circles that varied in size.  The size of the circle corresponds to the number of songs associated with that data element.  The first panel represents the hour of day a song was discovered.  The middle panel is the year the song was released and if it was a favorite song of Eric’s in 2014.  The last panel matches to the day of the week the song was discovered.
 
@@ -44,6 +44,9 @@ For a first foray into creating data visualizations, I think this project was a 
 ### Making it Real
 
 The installation was a relatively simple build, which is easy to say in hind site.  This project started with inspiration from a few new toys, which I had never used before.  This required several experiments and prototypes to understand how they worked.  These learnings also influenced the visual and interactive design.
+
+
+<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0327.JPG" width="544" height="408"/>
 
 
 Bare Conductive’s Electric Paint is the material for each touch point.  The paint is applied to the back side of the canvas.  This created some challenges and required the touch points to be proximity points due to the canvas.  The touch sensors were calibrated to detect proximity and not direct touch.
