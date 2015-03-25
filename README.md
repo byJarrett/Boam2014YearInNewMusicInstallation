@@ -1,7 +1,7 @@
 
 # Boam 2014 Year In New Music Installation
 
-[![Boam 2014 Year In New Music Installation](https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0569.JPG)]
+![Boam 2014 Year In New Music Installation](https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0569.JPG)
 
 ### The Repo
 
@@ -22,6 +22,8 @@ For a while now I’ve been interested in the space where there is a mix of digi
 I was able to solve all of these problems with a single solution – [Eric Boam] (http://ericboam.com/).  It was amazing luck.  The gods were giving me good fortune.
 
 Eric is a talented designer that has a strong interest in data and the field of quantified self.  Each year he tracks new music he discovers by recording detailed information which he later mines to surface “moments of significance.”  I approached him with the basic idea that I wanted to take his data and create an interactive installation.  It would be a physical interactive data visualization of his year in new music that used no screens or pixels of any form.  We had to use the Bare Conductive Touch Board and ink, but beyond that, there were no other constraints.
+
+<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0554.JPG" width="921" height="614"/>
 
 The result was a set of three canvas panels.  Each has a set of circles that varied in size.  The size of the circle corresponds to the number of songs associated with that data element.  The first panel represents the hour of day a song was discovered.  The middle panel is the year the song was released and if it was a favorite song of Eric’s in 2014.  The last panel matches to the day of the week the song was discovered.
 
