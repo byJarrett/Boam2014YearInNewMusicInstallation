@@ -46,7 +46,7 @@ For a first foray into creating data visualizations, I think this project was a 
 The installation was a relatively simple build, which is easy to say in hind site.  This project started with inspiration from a few new toys, which I had never used before.  This required several experiments and prototypes to understand how they worked.  These learnings also influenced the visual and interactive design.
 
 
-<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0327.JPG" width="544" height="408"/>
+<img src="https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/IMG_0327.JPG" width="544" height="408"/>
 
 
 Bare Conductive’s Electric Paint is the material for each touch point.  The paint is applied to the back side of the canvas.  This created some challenges and required the touch points to be proximity points due to the canvas.  The touch sensors were calibrated to detect proximity and not direct touch.
