@@ -1,6 +1,7 @@
 
 # Boam 2014 Year In New Music Installation
 
+[![Boam 2014 Year In New Music Installation](https://github.com/byJarrett/Boam2014YearInNewMusicInstallation/blob/master/Pictures/DSC_0569.JPG)]
 
 ### The Repo
 
