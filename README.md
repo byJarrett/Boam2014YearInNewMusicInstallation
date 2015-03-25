@@ -1,15 +1,11 @@
 
 # Boam 2014 Year In New Music Installation
 
-<p>
-    ** The Repo **
+** The Repo **
+
+This repo stores source code and pictures from the build for the Boam 2014 Year In New Music installation.  The explanation of the repo contents is below.
 
 
-    This repo stores source code and pictures from the build for the Boam 2014 Year In New Music installation.  The explanation of the repo contents is below.
-</p>
-
-
-<p>
     ** Start with an Idea **
 
     For Christmas I got a [Bare Conductive](http://www.bareconductive.com/) [Touch Board](http://www.bareconductive.com/shop/touch-board/).  My mother-in-law sponsored Bare Conductive’s [Kickstarter campaign](https://www.kickstarter.com/projects/863853574/touch-board-interactivity-everywhere) to get it for me – very awesome!  So really this all started with a new toy.  I did some simple experiments, but nothing beyond that.  It seemed like such a waste.
@@ -30,11 +26,8 @@
     The result was a set of three canvas panels.  Each has a set of circles that varied in size.  The size of the circle corresponds to the number of songs associated with that data element.  The first panel represents the hour of day a song was discovered.  The middle panel is the year the song was released and if it was a favorite song of Eric’s in 2014.  The last panel matches to the day of the week the song was discovered.
 
     To interact with the data you touch one circle from the first or last panel and one circle from the middle circle.  Doing so plays the song that matches that query.  The music stops when the touch is released.
-</p>
 
 
-
-<p>
 ** In the End **
 
 
@@ -42,10 +35,8 @@ My favorite element to this installation was that the visual elements were print
 
 For a first foray into creating data visualizations, I think this project was a success.  It was simple, but still challenging.  I got to play with new technical hardware and dive deeper into interesting technologies.  On the design side, Eric taught me a few things about data visualizations and design in general.
 
-</p>
 
 
-<p>
 ** Making it Real **
 
 The installation was a relatively simple build, which is easy to say in hind site.  This project started with inspiration from a few new toys, which I had never used before.  This required several experiments and prototypes to understand how they worked.  These learnings also influenced the visual and interactive design.
@@ -80,5 +71,3 @@ Helpful resources for this project include:
 -  [https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/overview] (https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/overview)
 -  [http://www.bareconductive.com/make/setting-up-arduino-with-your-touch-board/] (http://www.bareconductive.com/make/setting-up-arduino-with-your-touch-board/)
 -  [https://github.com/BareConductive/mpr121] (https://github.com/BareConductive/mpr121)
-
-</p>
